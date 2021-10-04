@@ -85,3 +85,17 @@ header{
   .projetos-itens a:hover{
     color: #379BB7;
   }
+
+  ol code{
+    display: none;
+  }
+
+  li:hover > code{
+    font-weight: 700;
+    line-height: 15px;
+    align-items: justify;
+    border: 1px dotted;
+    border-radius: 20px;
+    padding: 10px;
+    display: block;
+  }
