@@ -19,8 +19,9 @@ body{
 }
 
 header{
-    display: flex; 
-    align-items: center;
+  margin: 10px;
+  display: flex; 
+  align-items: center;
 }
 
 .perfil-foto{
@@ -99,3 +100,5 @@ header{
     padding: 10px;
     display: block;
   }
+
+  
